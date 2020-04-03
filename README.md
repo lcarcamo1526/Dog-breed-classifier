@@ -41,7 +41,7 @@ Along with exploring state-of-the-art CNN models for classification  and localiz
 
 
 
-## Transfer Learnings
+## Transfer Learning
 
 Used **Resnet152** for transfer learnings
 
