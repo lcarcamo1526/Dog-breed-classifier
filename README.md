@@ -35,7 +35,7 @@ Along with exploring state-of-the-art CNN models for classification  and localiz
 
 -----
 
-​	Accuracy has been achieved up to *18%** with **12 epochs**
+​	Accuracy has been achieved up to *18%** with **12 epochs** in 'model_scratch.pt'
 
 
 
@@ -46,7 +46,7 @@ Along with exploring state-of-the-art CNN models for classification  and localiz
 Used **Resnet152** for transfer learnings
 
 
-Accuracy has been achieved up to **88%** with **10 epochs**
+Accuracy has been achieved up to **88%** with **10 epochs** in model_transfer.pt
 
 
 
