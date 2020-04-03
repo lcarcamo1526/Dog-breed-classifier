@@ -19,8 +19,7 @@ Along with exploring state-of-the-art CNN models for classification  and localiz
 
 
 
-## CNN by Scratch (Building a model on my own)
-
+## CNN ARCH
 
     (conv1): Conv2d(3, 32, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
     (conv2): Conv2d(32, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
